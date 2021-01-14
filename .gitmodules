@@ -1,0 +1,3 @@
+[submodule "plugged/vim-SyntaxRange"]
+	path = plugged/vim-SyntaxRange
+	url = https://github.com/inkarkat/vim-SyntaxRange
