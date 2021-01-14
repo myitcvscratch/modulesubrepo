@@ -1,3 +1,6 @@
 [submodule "plugged/vim-SyntaxRange"]
 	path = plugged/vim-SyntaxRange
 	url = https://github.com/inkarkat/vim-SyntaxRange
+[submodule "plugged/govim"]
+	path = plugged/govim
+	url = https://github.com/govim/govim
