@@ -4,3 +4,6 @@
 [submodule "plugged/govim"]
 	path = plugged/govim
 	url = https://github.com/govim/govim
+[submodule "plugged/odd"]
+	path = plugged/odd
+	url = https://github.com/myitcvscratch/randomgocode
